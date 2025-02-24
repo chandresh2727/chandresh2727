@@ -45,8 +45,8 @@
 
 ---
 
-## 🧠 **Fun Fact** 
-I once wrote a code that *debugged itself*... Too bad it took me weeks to figure out how 😅
+## 🧠 **Fun Fact**  
+Programming is like a puzzle. The real fun is not in solving it, but in breaking it down into smaller, solvable problems. 🧩
 
 ---
 
