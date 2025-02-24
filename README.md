@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Chandresh Trivedi! 👋</h1>
 <h3 align="center">🚀 Java Developer | Blockchain Enthusiast | Quant Finance Learner | Freelance Tutor</h3>
 
----
-
 ## 🌍 **My Journey in Tech**
 📍 **Started as a Coding Club Lead** 🎓 →  
 📍 **Blockchain Intern @ GTPL Hathway** 🔗 →  
