@@ -45,6 +45,18 @@
 
 ---
 
+## 🧠 **Fun Fact** 
+I once wrote a code that *debugged itself*... Too bad it took me weeks to figure out how 😅
+
+---
+
+## 🤪 **A Little Coding Humor**
+Why do programmers prefer dark mode?
+
+Because the light attracts bugs! 💡🐞
+
+---
+
 ## 📚 **Coding Profiles**
 <p align="center">
   <a href="https://leetcode.com/u/chandresh001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
